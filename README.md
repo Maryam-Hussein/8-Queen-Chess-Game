@@ -2,8 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://en.cppreference.com/)
 [![Environment](https://img.shields.io/badge/IDE-Visual%20Studio%202019-purple.svg)](https://visualstudio.microsoft.com/vs/older-downloads/)
-[![University](https://img.shields.io/badge/Pharos-University-green.svg)](https://www.pua.edu.eg/)
-[![Department](https://img.shields.io/badge/Dept-Computer%20Engineering-red.svg)](#)
+
 
 ## 📖 Project Overview
 This project is an interactive implementation of the classic **8-Queens Puzzle**. It was developed to demonstrate the principles of **Structured Programming**, focusing on algorithmic logic and procedural abstraction. The goal is to place 8 queens on an 8x8 board such that no two queens attack each other.
@@ -56,7 +55,7 @@ The project directory is organized as follows:
 ├── 8-Queen-Game.sln      # Visual Studio solution file for environment setup
 ├── 8-Queen-Game.vcxproj  # Visual Studio project configuration file
 └── README.md             # Project documentation and guide
-
+```
 ### 🧠 Core Logic & Implementation
 
 The program is built using a **Structured Programming** approach, dividing the game into clear, logical modules:
