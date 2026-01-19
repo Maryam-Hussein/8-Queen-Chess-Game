@@ -1,5 +1,6 @@
 # 👑 8-Queens Chess Game: A Structured Programming Approach
 
+[![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://en.cppreference.com/w/c)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://en.cppreference.com/)
 [![Environment](https://img.shields.io/badge/IDE-Visual%20Studio%202019-purple.svg)](https://visualstudio.microsoft.com/vs/older-downloads/)
 
@@ -28,7 +29,7 @@ The program is built using a structured, step-by-step approach:
 3. **User Interaction:** Robust input handling to capture player moves and provide immediate feedback on the game state.
 
 ## 🛠️ Technical Stack
-- **Language:** C++
+- **Language:** C
 - **IDE:** Microsoft Visual Studio 2019
 - **Paradigm:** Structured / Procedural Programming
 
@@ -56,10 +57,3 @@ The project directory is organized as follows:
 ├── 8-Queen-Game.vcxproj  # Visual Studio project configuration file
 └── README.md             # Project documentation and guide
 ```
-### 🧠 Core Logic & Implementation
-
-The program is built using a **Structured Programming** approach, dividing the game into clear, logical modules:
-
-* **Board Initialization:** Setting up and resetting the 8x8 matrix representing the chessboard.
-* **Safety Check:** A dedicated function `isSafe(int row, int col)` validates the placement of each queen against existing queens to prevent conflicts.
-* **User Interaction:** Robust input handling to capture player moves, update the board state, and provide real-time feedback.
